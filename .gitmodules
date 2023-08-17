@@ -1,0 +1,9 @@
+[submodule "tests4"]
+	path = tests4
+	url = https://github.com/AndreiStselmashenkaEPAM/tests4.git
+[submodule "test3"]
+	path = test3
+	url = https://github.com/AndreiStselmashenkaEPAM/test3.git
+[submodule "test2"]
+	path = test2
+	url = https://github.com/AndreiStselmashenkaEPAM/test2.git
